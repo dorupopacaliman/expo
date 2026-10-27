@@ -1,5 +1,20 @@
 # native-component-list
 
+## 0.0.14
+
+### Patch Changes
+
+- Updated dependencies. ([#52278](https://github.com/expo/expo/pull/52278), [#52227](https://github.com/expo/expo/pull/52227), [#52190](https://github.com/expo/expo/pull/52190), [#52189](https://github.com/expo/expo/pull/52189), [#52112](https://github.com/expo/expo/pull/52112), [#52225](https://github.com/expo/expo/pull/52225), [#52186](https://github.com/expo/expo/pull/52186))
+  - expo-ai@0.1.2
+  - expo@58.0.20
+  - @expo/ui@58.0.24
+  - expo-web-browser@58.0.7
+  - test-suite@1.0.14
+  - expo-app-intents@0.5.13
+  - expo-router@58.0.27
+  - expo-updates@58.0.18
+  - expo-auth-session@58.0.15
+
 ## 0.0.13
 
 ### Patch Changes
